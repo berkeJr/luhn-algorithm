@@ -19,7 +19,7 @@ Bu tool'u, seçilen kart sistemine bağlı olarak geçerli IIN'ler kullanan rast
 
 ### Luhn Algoritması Nedir? <a name="luhn"></a>
 
-- 
+- Luhn Algoritması, kredi kartı numaralarının doğruluğunu kontrol etmek için kullanılan bir algoritmadır. Luhn algoritması 1954 yılında IBM’de çalışan bir bilim insanı olan Hans Peter Luhn tarafından geliştirilmiştir. Kredi kartı numaralarının yazım hatalarını veya basit hataları yakalamak için kullanılır.
 
 ### Kredi Kartı Numarası İçin Validasyon Fonksiyonu <a name="function"></a>
 
